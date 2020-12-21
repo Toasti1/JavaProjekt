@@ -4,10 +4,16 @@ Hier ist angegeben welche Strukturen es geben soll
 und sonstige informationen die nicht für die Komentare im Code geeigenet sind.
 
 Spieler
-Die Klasse Spieler soll alle atribute enthalten die zum speichern der ereichten würfe sind,
-die Spieler informationen und gegebenenfalls auch die würfel funktion und die würfelll atribute 
-fileicht wird für den Würfel auch noch eine Eigene Klasse Geschriben 
+Die Klasse Spieler soll alle atribute enthalten:
+die Spieler informationen
+Die ereichten Würfe 
+Die Punkte 
 auserden soll sie alle aktionen enthalten die ein spieler machen kann.
+
+Würfall
+Die Klasse Würfel soll 
+Die errte alle momentahnen würfel als atribut speichern
+und es soll ein funktion geben mit der man spezielle Würfel neu würfeln kann 
 
 Spielverlauf
 Die Klasse Spielverlauf soll regeln welcher spieler wann dran ist und welche aktionen ausfüren darf.
@@ -16,8 +22,6 @@ auserdem soll sie den gewinner entscheiden.
 Test
 Die Klasse Test soll nur einen Programmaufruf von der Klasse Spielerlauf starten 
 in der Klasse Spielverlauf soll dan alles zum spiel geregelt sein.
-
-
 
 
 
